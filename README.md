@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47e024a3-99be-4245-86eb-2668eb615b79" alt="Alfa Kulfi Banner" width="100%">
+</p>
+
 # 🍦 Alfa Kulfi & Ice Cream - Digital Storefront
 **Built by Engr. Yusuf Ansari**
 
@@ -22,6 +26,30 @@ I engineered a responsive web ecosystem that visually communicates the premium q
 * 📱 **Mobile-First Responsive Layout** – Hand-crafted flexible layout structures to guarantee a seamless, pixel-perfect browsing experience on smartphones, tablets, and desktops.
 * ⚡ **Asset Optimization for High Traffic** – Structured and optimized high-definition dessert imagery to protect page performance and minimize loading latency for local customers.
 * 🚀 **Automated CI/CD Workflows** – Configured deployment pipelines to maintain consistent, stable mirrors on both Netlify and GitHub Pages simultaneously.
+
+---
+
+## 🖼️ Application Gallery
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/e6b13587-0d69-4a0b-98d3-58a5810f2a6a" width="100%" alt="Interface view 1"><br>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/6891f168-c443-4ff8-8cf0-e7d860368324" width="100%" alt="Interface view 2"><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/90534fb8-b661-47ac-b533-eb30af5a2a59" width="100%" alt="Interface view 3"><br>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/b7937887-d490-44b3-940b-de2c21c31fa8" width="100%" alt="Interface view 4"><br>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack & Engineering Choices
 * **Frontend:** Semantic HTML5, Custom CSS3 Grid & Flexbox modules, Vanilla JavaScript for dynamic interface interactions.

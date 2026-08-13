@@ -10,8 +10,8 @@
 > Bringing a celebrated Mumbai sweet destination into the digital space. Crafting an interactive showcase for multi-generational, time-honoured recipes, premium dairy ingredients, and signature frozen treats with modern web engineering.
 
 🌐 **Live Production Links:** 
-* [Primary Application (Netlify)](https://netlify.app) 
-* [GitHub Pages Mirror](https://github.io) 
+* [Primary Application (Netlify)](https://alfakulfi.netlify.app/) 
+* [GitHub Pages Mirror](https://engr-yusufansari.github.io/Alfa-IceCream/) 
 
 ---
 

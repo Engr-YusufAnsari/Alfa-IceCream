@@ -36,20 +36,20 @@ I engineered a responsive web ecosystem that visually communicates the premium q
       <img src="https://github.com/user-attachments/assets/47e024a3-99be-4245-86eb-2668eb615b79" width="100%" alt="Hero Landing Page View"><br>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com" width="100%" alt="Interface view 1"><br>
+      <img src="https://github.com/user-attachments/assets/e6b13587-0d69-4a0b-98d3-58a5810f2a6a" width="100%" alt="Menu Showcase View"><br>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com" width="100%" alt="Interface view 2"><br>
+      <img src="https://github.com/user-attachments/assets/6891f168-c443-4ff8-8cf0-e7d860368324" width="100%" alt="Flavors Grid View"><br>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com" width="100%" alt="Interface view 3"><br>
+      <img src="https://github.com/user-attachments/assets/90534fb8-b661-47ac-b533-eb30af5a2a59" width="100%" alt="Bulk Orders Interface View"><br>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com" width="100%" alt="Interface view 4"><br>
+      <img src="https://github.com/user-attachments/assets/b7937887-d490-44b3-940b-de2c21c31fa8" width="100%" alt="Contact Form View"><br>
     </td>
     <td width="50%" align="center">
       <!-- Remaining cell clear to keep layout grid aligned -->

@@ -33,6 +33,11 @@ I engineered a responsive web ecosystem that visually communicates the premium q
 <table width="100%">
   <tr>
     <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/47e024a3-99be-4245-86eb-2668eb615b79" width="100%" alt="Interface view 1"><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/e6b13587-0d69-4a0b-98d3-58a5810f2a6a" width="100%" alt="Interface view 1"><br>
     </td>
     <td width="50%" align="center">
